@@ -8,7 +8,7 @@ You need to reassure the employee, and provide step by step instructions on what
 It is our job as IT to be walking security campaigns, we must always follow our own best practices and when we see something being done wrong in the workplace to correct it before the bad traits spread.  
 
 ## Here are some templates and examples:  
-**Template:**
+**Template:**  
 (Generic greeting)
 
 (Thank them for sending it in/reporting, keep verbage specific enough for IT personel but also generic enough so normal people understand)**
@@ -17,7 +17,8 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Ask them to keep sending info and thank them again)
 
-**Example 1:** Hey, John!
+**Example 1:**  
+Hey, John!
 
 Thank you for sending this to us, after reviewing the email it appears to be a phishing scam.
 
@@ -27,7 +28,8 @@ If you see anything else you find suspicious, please let us know!
 
 Thank you,
 
-**Example 2:** Hey, John!
+**Example 2:**  
+Hey, John!
 
 Thank you for sending this along, after reviewing the email it appears to be a legitimate email from one of our partner organizations.
 
