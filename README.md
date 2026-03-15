@@ -7,7 +7,7 @@ When you are dealing with a wide range of ages and with people who have differin
 You need to reassure the employee, and provide step by step instructions on what you want them to be following.  
 It is our job as IT to be walking security campaigns, we must always follow our own best practices and when we see something being done wrong in the workplace to correct it before the bad traits spread.  
 
-## Here are some templates and examples,
+## Here are some templates and examples:  
 
 ### Example 1
 (Generic greeting): Hey, Employee Name!
