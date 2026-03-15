@@ -8,7 +8,7 @@ You need to reassure the employee, and provide step by step instructions on what
 It is our job as IT to be walking security campaigns, we must always follow our own best practices and when we see something being done wrong in the workplace to correct it before the bad traits spread.  
 
 ## Here are some templates and examples:  
-**Template:**  
+### Template: 
 (Generic greeting)
 
 (Thank them for sending it in/reporting, keep verbage specific enough for IT personel but also generic enough so normal people understand)**
