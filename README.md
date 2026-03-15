@@ -29,7 +29,8 @@ If you see anything else you find suspicious, please let us know!
 Thank you,
 
 (Signature)
-<br>
+<br>  
+<br>  
 **Example 2:**  
 Hey, John!
 
