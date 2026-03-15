@@ -17,6 +17,7 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Ask them to keep sending info and thank them again)
 
+
 **Example 1:**  
 Hey, John!
 
@@ -27,6 +28,7 @@ At the top of your Outlook, on the right hand side of the top ribbon, click the 
 If you see anything else you find suspicious, please let us know!
 
 Thank you,
+
 
 **Example 2:**  
 Hey, John!
@@ -42,8 +44,8 @@ If you see anything else you find suspicious, please let us know!
 
 Thank you for sending this along, this email is legit, this is our (Fill_In_The_Blank 'service/software/program' *if this is an automated message sometimes user aren't sure what the program, software, or service is, so you need to reassure them)
 
-You can safely proceed with the instructions below
-(*or*)
+You can safely proceed with the instructions below  
+(*or*)  
 You can safely proceed with the setup below
 
 If you see anything else you find suspicious, please let us know!
