@@ -10,15 +10,13 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 ## Here are some templates and examples:  
 
 ### Example 1
-(Generic greeting): Hey, Employee Name!
+(Generic greeting)
 
-Thank you for sending this along, after reviewing the email it appears to be (spam/a scam, keep it generic but also specific enough so normal people understand).
+(Thank them for sending it in/reporting, keep it generic but also specific enough so normal people understand).
 
-(If you use Outlook):
-At the top of your Outlook, on the right hand side of the top ribbon, click the button 'Report Suspicious', this will send the email for review and remove it from your inbox.
-(Any steps to report the email or quarantine it for analysis)
+(Steps you want them to follow after this, like reporting the email or quarantining it for analysis)
 
-If you see anything else you find suspicious, please let us know!
+(Ask them to keep sending info and thank them again)
 
 ex.) Hey, John!
 
