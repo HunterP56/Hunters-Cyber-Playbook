@@ -1,7 +1,7 @@
 # Hunter's Cyber Playbook
 A guide I created to use when dealing with Cyber Incidents.
 
-How to respond to employee sending you an email they got a suspicious email:
+# How to respond to employee sending you an email they got a suspicious email:  
 Responding to emails needs always requires your utmost attention, especially so for IT HelpDesk teams, even more so when responding to suspicious emails.
 When you are dealing with a wide range of ages and with people who have differing technological familiarity, you have to be careful and attentive to what you send as an IT employee.
 You need to reassure the employee, and provide step by step instructions on what you want them to be following.
