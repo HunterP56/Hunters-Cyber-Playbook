@@ -16,7 +16,7 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 (Steps you want them to follow after this, like reporting the email or quarantining it for analysis)**
 
 (Ask them to keep sending info and thank them again)  
-
+  
 **Example 1:**  
 Hey, John!
 
@@ -29,7 +29,7 @@ If you see anything else you find suspicious, please let us know!
 Thank you,
 
 (Signature)  
-
+  
 **Example 2:**  
 Hey, John!
 
