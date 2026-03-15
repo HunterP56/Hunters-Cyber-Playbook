@@ -16,8 +16,7 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 (Steps you want them to follow after this, like reporting the email or quarantining it for analysis)**
 
 (Ask them to keep sending info and thank them again)
-
-
+  
 **Example 1:**  
 Hey, John!
 
@@ -28,8 +27,7 @@ At the top of your Outlook, on the right hand side of the top ribbon, click the 
 If you see anything else you find suspicious, please let us know!
 
 Thank you,
-
-
+  
 **Example 2:**  
 Hey, John!
 
@@ -38,8 +36,7 @@ Thank you for sending this along, after reviewing the email it appears to be a l
 You can safely open the attachment & continue with the email like you normally would.
 
 If you see anything else you find suspicious, please let us know!
-
-
+  
 **Example 3:** Hey, Jane!
 
 Thank you for sending this along, this email is legit, this is our (Fill_In_The_Blank 'service/software/program' *if this is an automated message sometimes user aren't sure what the program, software, or service is, so you need to reassure them)
