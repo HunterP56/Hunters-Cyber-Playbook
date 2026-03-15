@@ -11,7 +11,7 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Generic greeting)
 
-(Thank them for sending it in/reporting, keep it generic but also specific enough so normal people understand).
+(Thank them for sending it in/reporting, keep verbage specific enough for IT personel but also generic enough so normal people understand).
 
 (Steps you want them to follow after this, like reporting the email or quarantining it for analysis)
 
