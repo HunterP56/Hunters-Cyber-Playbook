@@ -9,7 +9,6 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 ## Here are some templates and examples:  
 
-### Example 1
 (Generic greeting)
 
 (Thank them for sending it in/reporting, keep it generic but also specific enough so normal people understand).
@@ -18,7 +17,7 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Ask them to keep sending info and thank them again)
 
-ex.) Hey, John!
+**Example 1:** Hey, John!
 
 Thank you for sending this to us, after reviewing the email it appears to be a phishing scam.
 
@@ -28,16 +27,7 @@ If you see anything else you find suspicious, please let us know!
 
 Thank you,
 
-### Example 2
-(Generic greeting): Hey, Employee Name!
-
-Thank you for sending this along, after reviewing the email it appears to be a legitimate (email/service/notice *whatever the email was about).
-
-You can safely open the attachment & continue with the email like (usual/you usually would/normal)
-
-If you see anything else you find suspicious, please let us know!
-
-ex.) Hey, John!
+**Example 2:** Hey, John!
 
 Thank you for sending this along, after reviewing the email it appears to be a legitimate email from one of our partner organizations.
 
@@ -46,8 +36,7 @@ You can safely open the attachment & continue with the email like you normally w
 If you see anything else you find suspicious, please let us know!
 
 
-### Example 3
-(Generic greeting): Hey, Employee Name!
+**Example 3:** Hey, Jane!
 
 Thank you for sending this along, this email is legit, this is our (Fill_In_The_Blank 'service/software/program' *if this is an automated message sometimes user aren't sure what the program, software, or service is, so you need to reassure them)
 
