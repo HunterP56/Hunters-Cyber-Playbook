@@ -15,8 +15,8 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Steps you want them to follow after this, like reporting the email or quarantining it for analysis)**
 
-(Ask them to keep sending info and thank them again)
-  
+(Ask them to keep sending info and thank them again)  
+
 **Example 1:**  
 Hey, John!
 
@@ -27,7 +27,9 @@ At the top of your Outlook, on the right hand side of the top ribbon, click the 
 If you see anything else you find suspicious, please let us know!
 
 Thank you,
-  
+
+(Signature)  
+
 **Example 2:**  
 Hey, John!
 
@@ -36,6 +38,10 @@ Thank you for sending this along, after reviewing the email it appears to be a l
 You can safely open the attachment & continue with the email like you normally would.
 
 If you see anything else you find suspicious, please let us know!
+
+Thank you,
+
+(Signature)  
   
 **Example 3:** Hey, Jane!
 
@@ -46,3 +52,7 @@ You can safely proceed with the instructions below
 You can safely proceed with the setup below
 
 If you see anything else you find suspicious, please let us know!
+
+Thank you,
+
+(Signature)
