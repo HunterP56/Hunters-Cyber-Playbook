@@ -15,8 +15,9 @@ It is our job as IT to be walking security campaigns, we must always follow our 
 
 (Steps you want them to follow after this, like reporting the email or quarantining it for analysis)**
 
-(Ask them to keep sending info and thank them again)  
-  
+(Ask them to keep sending info and thank them again)
+<br>  
+<br>
 **Example 1:**  
 Hey, John!
 
@@ -42,8 +43,9 @@ If you see anything else you find suspicious, please let us know!
 
 Thank you,
 
-(Signature)  
-  
+(Signature)
+<br>  
+<br>
 **Example 3:** Hey, Jane!
 
 Thank you for sending this along, this email is legit, this is our (Fill_In_The_Blank 'service/software/program' *if this is an automated message sometimes user aren't sure what the program, software, or service is, so you need to reassure them)
