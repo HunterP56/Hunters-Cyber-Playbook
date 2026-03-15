@@ -30,6 +30,7 @@ Thank you,
 
 (Signature)
 <br>  
+<br>
 **Example 2:**  
 Hey, John!
 
